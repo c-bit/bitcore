@@ -6,7 +6,7 @@ Bitcore
 
 Infrastructure to build Bitcoin and blockchain-based applications for the next generation of financial technology.
 
-**Note:** If you're looking for the Bitcore Library please see: https://github.com/bitpay/bitcore-lib
+**Note:** If you're looking for the C-Bitcore Library please see: https://github.com/c-bit/bitcore-lib
 
 ## Getting Started
 
